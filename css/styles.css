@@ -173,7 +173,8 @@ max-width: 496px;}
 background: #2e2f42;
 padding-top: 188px;
 padding-bottom: 188xp;
-
+padding: 188px 0;
+max-width: 496px;
 }
 
 .effectiv {
@@ -183,6 +184,7 @@ line-height: 1.07;
 letter-spacing: 0.02em;
 text-align: center;
 color: #fff;
+max-width: 496px;
 }
 
 .button-order-service {
