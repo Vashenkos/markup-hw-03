@@ -129,7 +129,7 @@ color: #434455;
 
 
 
-.conteiner-main-section [max-width: 496px;]
+.conteiner-main-section {max-width: 496px;}
 
 
 
