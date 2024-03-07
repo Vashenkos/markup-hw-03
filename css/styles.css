@@ -189,11 +189,21 @@ border-radius: 4px;
 
 
 
-.section-2 {}
+.section-two {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 
-.spdt-ul {}
+.spdt-ul {
+    display: flex;
+    gap: 24px;
+    margin-right: 0;
+}
 
-.spdt-spdt-p {}
+.spdt-spdt-p {
+    width: calc((100% - 72px) / 4);
+    margin-bottom: 8px;
+}
 
 .spdt {
 font-weight: 500;
