@@ -129,7 +129,8 @@ color: #434455;
 
 
 
-.conteiner-main-section {max-width: 496px;}
+.conteiner-main-section {
+max-width: 496px;}
 
 
 
@@ -190,8 +191,7 @@ border-radius: 4px;
 
 
 .section-two {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding: 188px 0;
 }
 
 .spdt-ul {
