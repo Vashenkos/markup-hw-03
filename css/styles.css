@@ -54,8 +54,9 @@ width: 1158px;
 margin: 0 auto;
 padding-left: 15px;
 padding-right: 15px;
-
-
+max-width:1128px; padding: 0;
+margin: 0 auto;
+    
 
 }
 
@@ -167,8 +168,7 @@ color: #434455;
 
 
 
-.conteiner-main-section {
-max-width: 496px;}
+.conteiner {}
 
 
 
@@ -219,8 +219,8 @@ border-radius: 4px;
     color: #ffffff;
     background-color: #4D5AE5}
 
-.button:hover{background-color: #404BBF}
-.button:focus{background-color: #404BBF}
+.button:hover{background-color: #404BBF;}
+.button:focus{background-color: #404BBF;}
 .button-order-service:hover {
     background-color: #404BBF;
 }
@@ -346,3 +346,20 @@ line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
 color: #4d5ae5;}
+   
+
+
+
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
