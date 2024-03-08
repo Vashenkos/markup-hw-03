@@ -230,7 +230,7 @@ border-radius: 4px;
 
 
 .section-two {
-    padding: 188px 0;
+padding: 120px 0;
 }
 
 .spdt-ul {
@@ -241,7 +241,7 @@ border-radius: 4px;
 
 .spdt-spdt-p {
     width: calc((100% - 72px) / 4);
-    margin-bottom: 8px;
+    
 }
 
 .spdt {
@@ -257,7 +257,9 @@ font-weight: 400;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
-color: #434455;}
+color: #434455;
+margin-bottom: 8px;
+}
 
 .section-three {background-color: #F4F4FD}
 
