@@ -48,13 +48,13 @@ border-bottom: 1px solid #e7e9fc;
 
 
 .cotainer {
-width: 1440px; 
 height: 72px;
 display: flex;
 width: 1158px;
 margin: 0 auto;
 padding-left: 15px;
 padding-right: 15px;
+
 
 
 }
@@ -126,15 +126,21 @@ ul li {list-style: none;}
     letter-spacing: 0.02em;
     color: #2e2f42}
 
-.address {font-style: normal}
+.address {font-style: normal
+padding: 24px 0;}
 
 .address-ul {
 display: flex;
 gap: 40px;
-margin-top: 24px;
-margin-right: 0;
-
+padding-top: 24px;
+    padding-bottom: 24px;
+    padding-right: 
 }
+
+.address-li {}
+
+
+
 
 .address-use {
 
