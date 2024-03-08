@@ -262,7 +262,7 @@ color: #434455;
 margin-bottom: 8px;
 }
 
-.section-three {background-color: #F4F4FD
+.section-three {background-color: #F4F4FD;
 padding: 120px 0;
 }
 
@@ -275,7 +275,9 @@ text-align: center;
 text-transform: capitalize;
 margin-bottom: 72px;}
 
-.team-ul {background-color: #FFFFFF}
+.team-ul {background-color: #FFFFFF;
+    padding: 120px 0;
+}
 
 .eam-li {background-color: #FFFFFF;
 display: flex;
