@@ -56,10 +56,14 @@ address {
     margin: 0 auto;
     */
 
-.container{max-width: 1128px;
+.container{
+max-width: 1128px;
 margin: 0 auto;
 padding: 0 15px;
 padding: 24px 0 24px;
+
+
+
 }
   
 
