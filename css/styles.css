@@ -44,40 +44,14 @@ address {
 }
 
 
-/*--------нетрогати.*
-.cotainer {
-    height: 72px;
-    display: flex;
-    width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
-    max-width: 1128px;
-    padding: 0;
-    margin: 0 auto;
-    */
 
-.container{
+.container {
 max-width: 1128px;
 margin: 0 auto;
 padding: 0 15px;
 padding: 24px 0 24px;
+width: 1158px;
 
-
-
-}
-  
-
-}
-
-.display-flex-container{
-    display: flex;
-    width: 1158px;
-    padding: 24px 0 24px;
-    margin: 0 auto;
-    padding: 0 15px 0 15px;
-    padding: 24px 0 24px;
-    margin: 0 auto;
-    max-width: 1128px;
 }
 
 
@@ -158,7 +132,6 @@ ul li {
 .address {
     font-style: normal;
     padding: 24px 0;
-   
 }
 
 .address-ul {
