@@ -55,17 +55,18 @@ address {
     max-width: 1128px;
     padding: 0;
     margin: 0 auto;
-    width: 1158px;
+    
 
 }
-.container-heder{height: 72px;
-    display: flex;
-    padding: 24px 0 24px;
+/*nbvxfv*/
+.container {
     width: 1158px;
-    padding: 0 15px 0 15px;
-    max-width: 1128px;
-    margin: 0 auto;
-    width: 1158px;}
+    padding: 24px 0 24px;
+}
+
+
+/*---------------------------------------     */
+
 
 .studio:focus {
     color: #404bbf;
