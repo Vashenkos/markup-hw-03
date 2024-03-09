@@ -68,7 +68,7 @@ address {
     align-items: center;
     padding-top: 24px;
     padding-bottom: 24px;
-    display: flex;
+display: flex;
 }
 
 .webstudio {
@@ -114,7 +114,7 @@ address {
 }
 
 .menu-heder-lu {
-    display: flex;
+display: flex;
     gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
@@ -136,14 +136,14 @@ ul li {
 .address {
     font-style: normal;
     padding: 24px 0;
-    display: flex;
+   
 }
 
 .address-ul {
     gap: 40px;
     padding-top: 24px;
     padding-bottom: 24px;
-    display: flex;
+display: flex;
 }
 
 .address-li {}
@@ -377,7 +377,7 @@ ul li {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    margin-bottom: 8px;
+      margin-bottom: 8px;
 }
 
 .amm {
