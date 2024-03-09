@@ -44,19 +44,22 @@ address {
 }
 
 
-
+/*
 .container {
 max-width: 1128px;
 margin: 0 auto;
 padding: 0 15px;
 padding: 24px 0 24px;
-width: 1158px;
+width: 1158px;*/
 
-}
-ul
-.header> :first-child {
-    display: flex;
-}
+.header>.container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 1158px;
+        margin: 0 auto;
+        padding: 0 15px;
+    }
 
 .studio:focus {
     color: #404bbf;
@@ -109,6 +112,7 @@ display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    padding: 24px 0;
 }
 
 .menu-heder-lu {
@@ -145,7 +149,9 @@ display: flex;
 margin-right: 0;
 }
 
-.address-li {}
+.address-li {
+    margin-right: 40px;
+}
 
 .address-use {
     font-family: "Roboto", sans-serif;
