@@ -132,6 +132,7 @@ ul li {
 .address {
     font-style: normal;
     padding: 24px 0;
+    display: flex;
 }
 
 .address-ul {
@@ -139,7 +140,7 @@ ul li {
     padding-top: 24px;
     padding-bottom: 24px;
 display: flex;
-justify-content: end;
+margin-left: 332px;
 }
 
 .address-li {}
@@ -204,6 +205,7 @@ justify-content: end;
     height: 56px;
     border: none;
     border-radius: 4px;
+    justify-self:center;
 }
 
 .button {
