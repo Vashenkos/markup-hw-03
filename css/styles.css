@@ -45,13 +45,12 @@ address {
 
 
 
-.container {
+.container-top {
 max-width: 1128px;
 margin: 0 auto;
 padding: 0 15px;
 padding: 24px 0 24px;
 width: 1158px;
-
 
 }
 
@@ -141,10 +140,10 @@ ul li {
     padding-top: 24px;
     padding-bottom: 24px;
 display: flex;
-margin-left: 332px;
+margin-right: 0;
 }
 
-.address-li {display: flex;}
+.address-li {}
 
 .address-use {
     font-family: "Roboto", sans-serif;
