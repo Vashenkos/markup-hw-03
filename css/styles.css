@@ -52,6 +52,7 @@ padding: 0 15px;
 padding: 24px 0 24px;
 width: 1158px;
 
+
 }
 
 
@@ -143,7 +144,7 @@ display: flex;
 margin-left: 332px;
 }
 
-.address-li {}
+.address-li {display: flex;}
 
 .address-use {
     font-family: "Roboto", sans-serif;
