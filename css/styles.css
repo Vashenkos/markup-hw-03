@@ -53,8 +53,10 @@ padding: 24px 0 24px;
 width: 1158px;
 
 }
-
-
+ul
+.header> :first-child {
+    display: flex;
+}
 
 .studio:focus {
     color: #404bbf;
