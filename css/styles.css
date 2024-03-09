@@ -139,6 +139,7 @@ ul li {
     font-style: normal;
     padding: 24px 0;
     display: flex;
+    gap: 40px;
 }
 
 .address-ul {
