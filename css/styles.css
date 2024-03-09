@@ -54,14 +54,21 @@ address {
     max-width: 1128px;
     padding: 0;
     margin: 0 auto;
-/*                */  
+    */
+
+.container{max-width: 1128px;
+margin: 0 auto;
+padding: 0 15px;
+padding: 24px 0 24px;
+}
+  
 
 }
 
-.container-hed{
+.display-flex-container{
+    display: flex;
     width: 1158px;
     padding: 24px 0 24px;
-    display: flex;
     margin: 0 auto;
     padding: 0 15px 0 15px;
     padding: 24px 0 24px;
@@ -180,11 +187,6 @@ display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.address-use:hover,
-:focus {
-    color: #404bbf
 }
 
 .conteiner {}
