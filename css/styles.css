@@ -59,11 +59,13 @@ address {
 
 }
 /*nbvxfv*/
-.container {
+.container-hed{
     width: 1158px;
     padding: 24px 0 24px;
     display: flex;
     margin: 0 auto;
+    padding: 0 15px 0 15px;
+    padding: 24px 0 24px;
 }
 
 
