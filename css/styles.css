@@ -294,9 +294,7 @@ width: 1158px;}
 }
 
 .team-ul {
-    background-color: #FFFFFF;
-    padding: 120px 0;
-    display: flex;
+ display: flex;
     gap: 24px;
 }
 
@@ -383,7 +381,6 @@ width: 1158px;}
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    margin-bottom: 72px;
 }
 
 .section-5-ul {}
