@@ -44,13 +44,11 @@ address {
 }
 
 
-/*
+
 .container {
-max-width: 1128px;
 margin: 0 auto;
 padding: 0 15px;
-padding: 24px 0 24px;
-width: 1158px;*/
+width: 1158px;}
 
 .header>.container {
     display: flex;
@@ -67,8 +65,6 @@ width: 1158px;*/
 
 .nav-menu {
     align-items: center;
-    padding-top: 24px;
-    padding-bottom: 24px;
     display: flex;
 }
 
@@ -113,13 +109,12 @@ width: 1158px;*/
     letter-spacing: 0.02em;
     color: #2e2f42;
     padding: 24px 0;
+    display: block;
 }
 
 .menu-heder-lu {
     display: flex;
     gap: 40px;
-    padding-top: 24px;
-    padding-bottom: 24px;
 
 }
 
