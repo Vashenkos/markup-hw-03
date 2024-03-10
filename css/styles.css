@@ -138,13 +138,11 @@ ul li {
 .address-top{
     font-style: normal;
     padding: 24px 0;
-    display: flex;
-    gap: 40px;
+    
 }
 
 .address-ul {
-    gap: 40px;
-    display: flex;
+    
     padding-top: 24px;
     padding-bottom: 24px;
 margin-right: 40px;
@@ -153,7 +151,7 @@ margin-right: 40px;
 .address-li {
     margin-right: 40px;
     gap: 40px;
-        display: flex;
+ display: flex;
 }
 
 .address-use {
@@ -163,8 +161,6 @@ margin-right: 40px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    display: flex;
-    gap: 40px;
     
 }
 
