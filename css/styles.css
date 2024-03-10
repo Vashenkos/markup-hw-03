@@ -127,6 +127,36 @@ ul li {
     list-style: none;
 }
 
+
+
+
+
+.address-ul {
+    display: flex;
+}
+
+.address-li {
+    gap: 40px;
+}
+
+.address-li:not(:last-child) {
+    margin-right: 40px;
+}
+
+.address-li:last-child {
+    margin-right: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
 .menu-li {
     font-weight: 500;
     font-size: 16px;
@@ -138,7 +168,8 @@ ul li {
 .address-top{
     font-style: normal;
     padding: 24px 0;
-    
+    display: flex;
+    gap: 40px;
 }
 
 .address-ul {
