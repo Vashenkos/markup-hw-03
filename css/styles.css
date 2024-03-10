@@ -152,6 +152,8 @@ margin-right: 40px;
 
 .address-li {
     margin-right: 40px;
+    gap: 40px;
+        display: flex;
 }
 
 .address-use {
